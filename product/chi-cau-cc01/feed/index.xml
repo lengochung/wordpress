@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: Chì  câu	</title>
+	<atom:link href="http://localhost/myproject/wordpress/product/chi-cau-cc01/feed/" rel="self" type="application/rss+xml" />
+	<link>/wordpress/product/chi-cau-cc01/</link>
+	<description>Wordpress  Học  Kỳ IIB</description>
+	<lastBuildDate>Sat, 19 Jun 2021 05:29:27 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Bởi: Lê Ngọc Hưng		</title>
+		<link>/wordpress/product/chi-cau-cc01/#comment-4</link>
+
+		<dc:creator><![CDATA[Lê Ngọc Hưng]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 04:17:15 +0000</pubDate>
+		<guid isPermaLink="false">/wordpress/?post_type=product&#038;p=175#comment-4</guid>
+
+					<description><![CDATA[Hàng chất lượng quá !]]></description>
+			<content:encoded><![CDATA[<p>Hàng chất lượng quá !</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
