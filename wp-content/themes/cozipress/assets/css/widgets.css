@@ -1236,7 +1236,7 @@ body:not(.homepage-3) .main-header .contact-icon {
     line-height: 1;
     padding: 1.25rem;
     color: var(--bs-white);
-    background-image: url('https://lengochung.github.io/wordpress/wp-content/themes/cozipress/assets/images/bg/dotted_sidebar.png');
+    background-image: url('/wordpress/wp-content/themes/cozipress/assets/images/bg/dotted_sidebar.png');
     background-color: var(--bs-secondary);
 }
 

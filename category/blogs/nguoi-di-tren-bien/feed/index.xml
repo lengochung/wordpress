@@ -10,7 +10,7 @@
 <channel>
 	<title>Người Đi Trên Biển &#8211; Fishermen</title>
 	<atom:link href="http://localhost/myproject/wordpress/category/blogs/nguoi-di-tren-bien/feed/" rel="self" type="application/rss+xml" />
-	<link>https://lengochung.github.io/wordpress</link>
+	<link>/wordpress</link>
 	<description>Wordpress Học Kỳ IIB</description>
 	<lastBuildDate>Sun, 20 Jun 2021 10:04:32 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>&#8220;Giã cào bay&#8221;</title>
-		<link>https://lengochung.github.io/wordpress/blogs/gia-cao-bay/</link>
-					<comments>https://lengochung.github.io/wordpress/blogs/gia-cao-bay/#respond</comments>
+		<link>/wordpress/blogs/gia-cao-bay/</link>
+					<comments>/wordpress/blogs/gia-cao-bay/#respond</comments>
 		
 		<dc:creator><![CDATA[Lê Ngọc Hưng]]></dc:creator>
 		<pubDate>Sun, 20 Jun 2021 09:57:47 +0000</pubDate>
@@ -30,7 +30,7 @@
 		<category><![CDATA[Người Đi Trên Biển]]></category>
 		<category><![CDATA[giã cào]]></category>
 		<category><![CDATA[người đi trên biển]]></category>
-		<guid isPermaLink="false">https://lengochung.github.io/wordpress/?p=84</guid>
+		<guid isPermaLink="false">/wordpress/?p=84</guid>
 
 					<description><![CDATA[Tàu &#8220;giã cào bay&#8221;. NDĐT &#8211; Trong dòng tin tức ồ ạt tuần vừa rồi, có một tin ít được chú ý, đó là tại phiên chất vấn và trả lời chất vấn trong kỳ họp thứ ba HĐND tỉnh Bình Thuận ngày 7-12, cụm từ “giã cào bay” lại được làm nóng lên. “Giã [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div class="box-detail-thumb uk-text-center"><img src="https://nhandan.vn/imgold/media/k2/items/src/3151/2cae9ddc002ab64e6dc9a821622776d4.jpg" /><em>Tàu &#8220;giã cào bay&#8221;.</em></div>
@@ -65,15 +65,15 @@
 </div></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://lengochung.github.io/wordpress/blogs/gia-cao-bay/feed/</wfw:commentRss>
+					<wfw:commentRss>/wordpress/blogs/gia-cao-bay/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nghề lưới xù (lưới bung dùng)</title>
-		<link>https://lengochung.github.io/wordpress/blogs/nghe-luoi-xu-luoi-bung-dung/</link>
-					<comments>https://lengochung.github.io/wordpress/blogs/nghe-luoi-xu-luoi-bung-dung/#respond</comments>
+		<link>/wordpress/blogs/nghe-luoi-xu-luoi-bung-dung/</link>
+					<comments>/wordpress/blogs/nghe-luoi-xu-luoi-bung-dung/#respond</comments>
 		
 		<dc:creator><![CDATA[Lê Ngọc Hưng]]></dc:creator>
 		<pubDate>Sun, 20 Jun 2021 09:49:17 +0000</pubDate>
@@ -81,7 +81,7 @@
 		<category><![CDATA[Người Đi Trên Biển]]></category>
 		<category><![CDATA[nghề lưới]]></category>
 		<category><![CDATA[người đi trên biển]]></category>
-		<guid isPermaLink="false">https://lengochung.github.io/wordpress/?p=82</guid>
+		<guid isPermaLink="false">/wordpress/?p=82</guid>
 
 					<description><![CDATA[Nghề lưới chấp (lưới xù, lưới quét) xuất hiện đầu tiên ở tỉnh Nam Định. Về nguyên lý khai thác giống như lưới rê truyền thống của tỉnh BR &#8211; VT, tuy nhiên lưới chấp có nhiều tầng khai thác với kích thước mắt lưới khác nhau. Nghề này  du nhập vào tỉnh BR – [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><em><strong>Nghề lưới chấp (lưới xù, lưới quét) xuất hiện đầu tiên ở tỉnh Nam Định. Về nguyên lý khai thác giống như lưới rê truyền thống của tỉnh BR &#8211; VT, tuy nhiên lưới chấp có nhiều tầng khai thác với kích thước mắt lưới khác nhau. Nghề này  du nhập vào tỉnh BR – VT từ năm 2006, chỉ hơn 6 năm qua số lượng ghe làm nghề lưới chấp của tỉnh BR – VT đã là vài chục chiếc.</strong></em></p>
@@ -104,7 +104,7 @@
 <p>Khó khăn thứ nữa đó là vốn đầu tư. Theo ông Thuyết để trang bị một chiếc ghe hoàn chỉnh làm nghề lưới chấp hiện nay chi phí cũng lên đến 5 tỉ đồng. Hầu hết những ngư dân đều rất khó tiếp cận được với nguồn vốn vay từ các hệ thống ngân hàng. “Những chiếc ghe của chúng tôi đóng mới hiện nay chủ yếu huy động từ anh em và một số vay nóng từ bên ngoài, nếu ai đó được may mắn vay được các nguồn vốn ưu đãi thì số lượng không thấm vào đâu, chúng tôi rất mong các chương trình vay vốn ưu đãi được đến với người làm biển, để hỗ trợ ngư dân đóng tàu lớn đánh bắt xa bờ”, ông Thuyết nói.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://lengochung.github.io/wordpress/blogs/nghe-luoi-xu-luoi-bung-dung/feed/</wfw:commentRss>
+					<wfw:commentRss>/wordpress/blogs/nghe-luoi-xu-luoi-bung-dung/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

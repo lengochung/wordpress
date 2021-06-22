@@ -10,7 +10,7 @@
 <channel>
 	<title>Áo phao &#8211; Fishermen</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/ao-phao/feed/" rel="self" type="application/rss+xml" />
-	<link>https://lengochung.github.io/wordpress</link>
+	<link>/wordpress</link>
 	<description>Wordpress Học Kỳ IIB</description>
 	<lastBuildDate>Mon, 21 Jun 2021 16:40:29 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Áo phao</title>
-		<link>https://lengochung.github.io/wordpress/san-pham/ao-phao/</link>
-					<comments>https://lengochung.github.io/wordpress/san-pham/ao-phao/#respond</comments>
+		<link>/wordpress/san-pham/ao-phao/</link>
+					<comments>/wordpress/san-pham/ao-phao/#respond</comments>
 		
 		<dc:creator><![CDATA[Lê Ngọc Hưng]]></dc:creator>
 		<pubDate>Sun, 20 Jun 2021 12:29:19 +0000</pubDate>
-				<guid isPermaLink="false">https://lengochung.github.io/wordpress/?post_type=product&#038;p=183</guid>
+				<guid isPermaLink="false">/wordpress/?post_type=product&#038;p=183</guid>
 
 					<description><![CDATA[Áo phao cứu hộ HC00X1
 
@@ -39,7 +39,7 @@ Nhẹ, linh hoạt khi sử dụng, độ nổi tương đối
 
 Độn xốp phôn polyme este]]></content:encoded>
 					
-					<wfw:commentRss>https://lengochung.github.io/wordpress/san-pham/ao-phao/feed/</wfw:commentRss>
+					<wfw:commentRss>/wordpress/san-pham/ao-phao/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

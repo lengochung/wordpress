@@ -9,7 +9,7 @@
 	<title>
 	Bình luận cho Fishermen	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://lengochung.github.io/wordpress</link>
+	<link>/wordpress</link>
 	<description>Wordpress Học Kỳ IIB</description>
 	<lastBuildDate>Sat, 15 May 2021 03:52:46 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
-		<link>https://lengochung.github.io/wordpress/khong-phan-loai/chao-moi-nguoi/#comment-1</link>
+		<link>/wordpress/khong-phan-loai/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
 		<pubDate>Sat, 15 May 2021 03:52:46 +0000</pubDate>
-		<guid isPermaLink="false">https://lengochung.github.io/wordpress/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/wordpress/?p=1#comment-1</guid>
 
 					<description><![CDATA[Xin chào, đây là một bình luận
 Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.

@@ -3783,7 +3783,7 @@ nav.woocommerce-pagination ul, .pagination .nav-links {
 }
 
 .card-404 .fa.fa-smile-o:before {
-    content: url(https://lengochung.github.io/wordpress/wp-content/themes/cozipress/assets/images/icon404.png);
+    content: url(/wordpress/wp-content/themes/cozipress/assets/images/icon404.png);
 }
 
 .card-404-img img {
