@@ -4,5 +4,5 @@ let gallery = document.getElementsByClassName('gallery-icon');
            let img = a.childNodes[1];
            let namephoto = img.src.split('/')[8].split('.')[0];
            a.href = `https://lengochung.github.io/wordpress/${namephoto}`;
-           console.log(a.href);
+           console.log(key);
         }
