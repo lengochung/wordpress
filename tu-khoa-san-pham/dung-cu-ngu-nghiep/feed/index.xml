@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dụng cụ ngư nghiệp &#8211; Fishermen</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/dung-cu-ngu-nghiep/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lengochung.github.io/wordpress</link>
+	<description></description>
+	<lastBuildDate>Thu, 01 Jul 2021 03:48:31 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Áo phao</title>
+		<link>https://lengochung.github.io/wordpress/san-pham/ao-phao/</link>
+					<comments>https://lengochung.github.io/wordpress/san-pham/ao-phao/#respond</comments>
+		
+		<dc:creator><![CDATA[Lê Ngọc Hưng]]></dc:creator>
+		<pubDate>Sun, 20 Jun 2021 12:29:19 +0000</pubDate>
+				<guid isPermaLink="false">https://lengochung.github.io/wordpress/?post_type=product&#038;p=183</guid>
+
+					<description><![CDATA[Áo phao cứu hộ HC00X1
+
+Nhẹ, linh hoạt khi sử dụng, độ nổi tương đối
+
+Độn xốp phôn polyme este]]></description>
+										<content:encoded><![CDATA[Áo phao cứu hộ HC00X1
+
+Nhẹ, linh hoạt khi sử dụng, độ nổi tương đối
+
+Độn xốp phôn polyme este]]></content:encoded>
+					
+					<wfw:commentRss>https://lengochung.github.io/wordpress/san-pham/ao-phao/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
