@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chưa phân loại &#8211; Fishermen</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lengochung.github.io/wordpress</link>
+	<description></description>
+	<lastBuildDate>Tue, 06 Jul 2021 17:23:02 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Elementor #1251</title>
+		<link>https://lengochung.github.io/wordpress/khong-phan-loai/elementor-1251/</link>
+					<comments>https://lengochung.github.io/wordpress/khong-phan-loai/elementor-1251/#respond</comments>
+		
+		<dc:creator><![CDATA[Lê Ngọc Hưng]]></dc:creator>
+		<pubDate>Tue, 06 Jul 2021 17:19:20 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://lengochung.github.io/wordpress/?p=1251</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1251" class="elementor elementor-1251" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-59a0d5d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="59a0d5d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-00cf4e3" data-id="00cf4e3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-37c972c elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="37c972c" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-form" method="post" id="656" name="Form liên hệ 1">
+			<input type="hidden" name="post_id" value="1251"/>
+			<input type="hidden" name="form_id" value="37c972c"/>
+			<input type="hidden" name="referer_title" value="Chưa phân loại" />
+
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-above">
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">
+					<label for="form-field-name" class="elementor-field-label">Name</label><input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name">				</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
+					<label for="form-field-email" class="elementor-field-label">Email</label><input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
+					<label for="form-field-message" class="elementor-field-label">Message</label><textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Message"></textarea>				</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+					<button type="submit" class="elementor-button elementor-size-sm">
+						<span >
+															<span class=" elementor-button-icon">
+																										</span>
+																						<span class="elementor-button-text">Send</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://lengochung.github.io/wordpress/khong-phan-loai/elementor-1251/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Học WordPress</title>
+		<link>https://lengochung.github.io/wordpress/khong-phan-loai/hoc-wordpress/</link>
+					<comments>https://lengochung.github.io/wordpress/khong-phan-loai/hoc-wordpress/#respond</comments>
+		
+		<dc:creator><![CDATA[Lê Ngọc Hưng]]></dc:creator>
+		<pubDate>Sat, 22 May 2021 03:48:13 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<category><![CDATA[mở đầu]]></category>
+		<guid isPermaLink="false">https://lengochung.github.io/wordpress/?p=6</guid>
+
+					<description><![CDATA[Hưng đang học Wordpress]]></description>
+										<content:encoded><![CDATA[<p>[sp_wpcarousel id=&#8221;51&#8243;]</p>
+<h2 class="has-text-align-center">Học WordPress</h2>
+<p>WordPress là học phần của Học kỳ IIB.</p>
+<p>WordPress là học phần của Học kỳ IIB.</p>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1536" height="2048" class="wp-image-11" src="https://lengochung.github.io/wordpress/wp-content/uploads/2021/05/max-2.jpg" alt="" /></figure>
+<blockquote class="wp-block-quote is-style-default">
+<p>Lê Ngọc Hưng ngơ ngác khi lần đầu học WordPress</p>
+<p><cite>Ảnh độc quyền, cấm sao chép và sử dụng dưới mọi hình thức.</cite></p></blockquote>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lengochung.github.io/wordpress/khong-phan-loai/hoc-wordpress/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chào tất cả mọi người!</title>
+		<link>https://lengochung.github.io/wordpress/khong-phan-loai/chao-moi-nguoi/</link>
+					<comments>https://lengochung.github.io/wordpress/khong-phan-loai/chao-moi-nguoi/#comments</comments>
+		
+		<dc:creator><![CDATA[Lê Ngọc Hưng]]></dc:creator>
+		<pubDate>Sat, 15 May 2021 03:52:46 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://lengochung.github.io/wordpress/?p=1</guid>
+
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+										<content:encoded><![CDATA[
+<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lengochung.github.io/wordpress/khong-phan-loai/chao-moi-nguoi/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
